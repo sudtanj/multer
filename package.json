@@ -1,5 +1,5 @@
 {
-  "name": "multer",
+  "name": "@sudtanj/multer",
   "description": "Middleware for handling `multipart/form-data`.",
   "version": "1.4.2",
   "contributors": [
